@@ -21,7 +21,7 @@
   <distributionManagement>
         <repository>
 		<id>sai-release</id>
-                <url>http://34.228.42.223:8081/repository/sai-release/</url>
+                <url>http://34.207.143.176:8081/repository/sai-release/</url>
                 <layout>default</layout>
             <releases>
                 <enabled>true</enabled>
